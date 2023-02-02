@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkitoss_web_site=self.webpackChunkitoss_web_site||[]).push([[812],{6443:function(e){e.exports=JSON.parse('{"title":"Documents","description":"Gu\xedas, manuales y tutoriales.","slug":"/category/documents","permalink":"/docs/category/documents","navigation":{"next":{"title":"Concepts","permalink":"/docs/documents/Introduction/concepts"}}}')}}]);
