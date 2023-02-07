@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Una herramienta de última generación para la gestión de Data Centers Blog</title>
+        <title>ITOSS: Operate IT products with ease Blog</title>
         <link>https://fmalaspina.github.io/pt/blog</link>
-        <description>Una herramienta de última generación para la gestión de Data Centers Blog</description>
+        <description>ITOSS: Operate IT products with ease Blog</description>
         <lastBuildDate>Thu, 16 Jun 2022 12:14:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
