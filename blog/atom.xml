@@ -9,7 +9,7 @@
     <icon>https://fmalaspina.github.io/img/favicon.png</icon>
     <entry>
         <title type="html"><![CDATA[Post example]]></title>
-        <id>/08-06-2022-post</id>
+        <id>https://fmalaspina.github.io/blog/08-06-2022-post</id>
         <link href="https://fmalaspina.github.io/blog/08-06-2022-post"/>
         <updated>2022-06-16T12:14:01.000Z</updated>
         <summary type="html"><![CDATA[Post example]]></summary>
